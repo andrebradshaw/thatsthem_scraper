@@ -71,7 +71,7 @@ function searchByName(link, n) {
   }, ((n + 1) * 9000));
 }
 
-var searchArr = [['jeff', 'powell'],['steven','bonnell']];
+var searchArr = [['jeff', 'welling'],['steven','bonti']];
 
 for(s=0; s<searchArr.length; s++){
 	searchByName(searchArr[s],s);
